@@ -1,0 +1,7 @@
+# @title AnyEdit settings
+# @description AnyEdit settings
+# @task_type LASTMOD
+
+file_export_version=3.0
+
+/instance/de.loskutov.anyedit.AnyEditTools/saveAndAddLine=true

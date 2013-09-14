@@ -1,0 +1,36 @@
+# @title Editor Configuration
+# @description Sets some useful defaults for the editor.
+# @task_type LASTMOD
+
+file_export_version=3.0
+
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=64,64,64
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.FindScope=188,173,173
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=246,243,232
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground=137,137,65
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground=0,0,0
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+/instance/org.eclipse.ui.editors/PHPReadOccurrenceIndicationColor=97,97,97
+/instance/org.eclipse.ui.editors/PHPWriteOccurrenceIndicationColor=148,133,103
+/instance/org.eclipse.ui.editors/asOccurencesIndicationColor=97,97,97
+/instance/org.eclipse.ui.editors/currentIPColor=80,80,80
+/instance/org.eclipse.ui.editors/currentLineColor=80,80,80
+/instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=63,63,106
+/instance/org.eclipse.ui.editors/javaScriptOccurrenceIndicationColor=97,97,97
+/instance/org.eclipse.ui.editors/lineNumberColor=192,192,192
+/instance/org.eclipse.ui.editors/matchingTagIndicationColor=97,97,97
+/instance/org.eclipse.ui.editors/occurrenceIndicationColor=97,97,97
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.ui.editors/printMargin=true
+/instance/org.eclipse.ui.editors/printMarginColor=192,192,192
+/instance/org.eclipse.ui.editors/printMarginColumn=80
+/instance/org.eclipse.ui.editors/pydevOccurrenceIndicationColor=97,97,97
+/instance/org.eclipse.ui.editors/searchResultIndicationColor=70,68,103
+/instance/org.eclipse.ui.editors/secondaryIPColor=80,80,80
+/instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=148,133,103
+
+/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|DejaVu Sans Mono|15.0|0|COCOA|1|DejaVuSansMono;
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|DejaVu Sans Mono|15.0|0|COCOA|1|DejaVuSansMono;
